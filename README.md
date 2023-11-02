@@ -14,7 +14,7 @@ I'm a software engineer with 3+ years experience in designing Alteryx automation
 - ⚡ Fun fact: I design mechanical keyboard cases
 <div align="center">
 
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:qb.dcruz@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/queen-belle-d-118b7859/)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cubeydice@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/queen-belle-d-118b7859/)
 
 </div>
 
