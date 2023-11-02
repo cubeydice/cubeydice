@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a software engineer with 3+ years experience in designing Alteryx automation workflows and Tableau dashboards
 - 🔭 I’m currently working on [dupecord](https://github.com/cubeydice/dupecord), a discord clone
 - 👯 I’m looking to collaborate on full-stack projects!
-- 📫 let's talk:   ![qb.dcruz@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.linkedin.com/in/queen-belle-d-118b7859/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- 📫 let's talk:   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:qb.dcruz@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/queen-belle-d-118b7859/)
 
 -----
 
