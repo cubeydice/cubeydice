@@ -2,6 +2,7 @@
 **cubeydice/cubeydice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div align="center"><img src="https://i.imgur.com/JRcVv39.png" align=center></div>
+
 *<div align="center">a former venture capital tax accountant trading one stack of returns for another 💻</div>* 
 <br/>
 
