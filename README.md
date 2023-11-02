@@ -1,20 +1,10 @@
 <!--
 **cubeydice/cubeydice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<div align="center">
-<img src="https://cdn.dribbble.com/users/10931652/screenshots/20525438/media/dd7036dfade89c8614a6299c96fc50d3.gif" align="center" style="height: 50 width: 50" />
-</div>   
-
 ### **<div align="center">hi 👋 i'm queen | software engineer 👾</div>** 
 
 *<div align="center">a former venture capital tax accountant trading one stack of returns for another 💻</div>* 
-
-<div align="center">
-
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:qb.dcruz@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/queen-belle-d-118b7859/)
-
-</div>
+<br/>
 
 I'm a software engineer with 3+ years experience in designing Alteryx automation workflows and Tableau dashboards
 - 🔭 I’m currently working on [dupecord](https://github.com/cubeydice/dupecord), a discord clone
@@ -22,8 +12,11 @@ I'm a software engineer with 3+ years experience in designing Alteryx automation
 - 🌱 I’m currently learning Python and Django  
 - ❓ Ask me about anything related to React, Rails as a backend and MERN stack  
 - ⚡ Fun fact: I design mechanical keyboard cases
-  
-<br/>    
+<div align="center">
+
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:qb.dcruz@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/queen-belle-d-118b7859/)
+
+</div>
 
 ## Languages and Tools
 <table><tr><td valign="center" width="50%" align="center">
