@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm a software engineer with 3+ years experience in designing Alteryx automation workflows and Tableau dashboards
 - 🔭 I’m currently working on [dupecord](https://github.com/cubeydice/dupecord), a discord clone
 - 👯 I’m looking to collaborate on full-stack projects!
-  
-![qb.dcruz@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://www.linkedin.com/in/queen-belle-d-118b7859/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- 📫 let's talk:   ![qb.dcruz@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.linkedin.com/in/queen-belle-d-118b7859/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+-----
 
 ### languages, tools, frameworks, libraries
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,5 +48,5 @@ I'm a software engineer with 3+ years experience in designing Alteryx automation
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
-
+-----
 ![Top Langs](https://github-readme-stats-ecru-beta-63.vercel.app/api/top-langs/?username=cubeydice&theme=transparent&layout=compact&exclude_repo=github-readme-stats,cubeydice.github.io,W3D5,W4D1,W4D2,W4D4,W5D2,W5D3,W5D4,W5D5,W6D2,W6D3,W6D5,W7D2,W7D3,W7D4,W7D5,W8D2,W11D4)
