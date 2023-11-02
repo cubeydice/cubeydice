@@ -51,8 +51,4 @@ I'm a software engineer with 3+ years experience in designing Alteryx automation
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 </td></tr></table>  
 
-<br />
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1236546337&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" style="height:300px"/></div>
-
 
