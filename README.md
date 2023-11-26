@@ -6,13 +6,15 @@
 *<div align="center">a former venture capital tax accountant trading one stack of returns for another 💻</div>* 
 <br/>
 
-I'm a software engineer with 3+ years previous experience in designing Alteryx automation workflows and Tableau dashboards
+I'm a software engineer, with 3+ years previous experience in designing Alteryx automation workflows and Tableau dashboards
 - 🔭 I’m currently working on [dupecord](https://github.com/cubeydice/dupecord), a full-stack discord clone
 - 👯 I’m looking to collaborate on productivity apps with gamification elements!
 - 🌱 I’m currently learning Python and Django  
 - ⚡ In my free time, I like gaming, reading manga/manhwa, playing with my goldendoodle, and building mechanical keyboards
 - 🍵 Boba is my weakness
 <div align="center">
+
+<div align="center"><b>Let's connect!</b></div>
 
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cubeydice@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/queen-belle-d-118b7859/)
 
