@@ -6,7 +6,7 @@
 *<div align="center">a former venture capital tax accountant trading one stack of returns for another 💻</div>* 
 <br/>
 
-I'm a software engineer, with 3+ years previous experience in designing Alteryx automation workflows and Tableau dashboards
+I'm a software engineer, with 3+ years previous experience in creating standardized workflows, developing Alteryx automation workflows, and designing Tableau dashboards
 - 🔭 I’m currently working on [dupecord](https://github.com/cubeydice/dupecord), a full-stack discord clone
 - 👯 I’m looking to collaborate on productivity apps with gamification elements!
 - 🌱 I’m currently developing my Java skills
