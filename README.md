@@ -11,7 +11,7 @@ I'm a software engineer, with 3+ years previous experience in designing Alteryx 
 - 👯 I’m looking to collaborate on productivity apps with gamification elements!
 - 🌱 I’m currently learning Python and Django  
 - 🏏 Pickleball! See my on the courts around San Jose, but don't expect too much, I am a low 3.0 skill ranking.
-- 🐭 Pokémon Go, gotta catch 'em all. Any interesting shinies you've caught recently? Part of the 7 Trees Rangers Community in San José :)
+- 🐭 Pokémon Go, gotta catch 'em all. Part of the 7 Trees Rangers Community in San José :)
 - 💻 An avid reader of manga/manwha and casual consumer of anime. Share your recs with me!
 - 🐶 Proud owner of [the most adorable mini-goldendoodle](https://www.instagram.com/benni_the_donut/)
 - 🍵 Boba is my weakness
