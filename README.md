@@ -13,7 +13,6 @@ I'm a software engineer, with 3+ years previous experience in creating standardi
 - 🐭 Pokémon Go, gotta catch 'em all. Part of the 7 Trees Rangers Community in San José :)
 - 💻 An avid reader of manga/manwha and casual consumer of anime. Share your recs with me!
 - 🐶 Proud owner of [the most adorable mini-goldendoodle](https://www.instagram.com/benni_the_donut/)
-- 🍵 Boba is my weakness
 <div align="center">
 
 <div align="center"><b>Let's connect!</b></div>
