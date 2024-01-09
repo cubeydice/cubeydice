@@ -6,7 +6,7 @@
 *<div align="center">a former venture capital tax accountant trading one stack of returns for another 💻</div>* 
 <br/>
 
-I'm a software engineer, with 3+ years previous experience in creating standardized workflows, developing Alteryx automation workflows, and designing Tableau dashboards
+I'm a software engineer, with 3+ years previous experience in creating standardized workflows, developing Alteryx automation workflows, and designing Tableau dashboards and tax databases
 - 🌱 I’m currently developing my Java skills ☕
 - 🏏 Pickleball! See me on the courts around San Jose, but don't expect too much, I am a low 3.0 skill ranking.
 - 🐭 Pokémon Go, gotta catch 'em all. Part of the 7 Trees Rangers Community in San José :)
