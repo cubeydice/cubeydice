@@ -7,7 +7,6 @@
 <br/>
 
 I'm a software engineer, with 3+ years previous experience in creating standardized workflows, developing Alteryx automations, and designing Tableau dashboards and tax databases
-- 🌱 I’m currently developing my Java skills ☕
 - 🏏 Pickleball! See me on the courts around San Jose, but don't expect too much, I am a low 2.5
 - 🐭 Pokémon Go, gotta catch 'em all. Part of the 7 Trees Rangers Community in San José :)
 - 💻 An avid reader of manga/manwha and casual consumer of anime. Share your recs with me!
