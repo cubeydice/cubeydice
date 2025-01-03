@@ -8,10 +8,9 @@
 
 I'm a software engineer, with 3+ years previous experience in creating standardized workflows, supporting relational tax databases, and developing Alteryx automations
 - 🏏 Pickleball! See me on the courts around San Jose, but don't expect too much, I am a low 2.5
-- 🐭 Pokémon Go, gotta catch 'em all. Part of the 7 Trees Rangers Community in San José :)
 - 💻 An avid reader of manga/manwha and casual consumer of anime. Share your recs with me!
 - 🐶 Proud owner of [the most adorable mini-goldendoodle](https://www.instagram.com/benni_the_donut/)
-- 🌱 Currently developing my Java skills
+- 🌱 Currently developing my Python skills
 <div align="center">
 
 <div align="center"><b>Let's connect!</b></div>
