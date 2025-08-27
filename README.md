@@ -6,7 +6,6 @@
 *<div align="center">a former venture capital tax accountant trading one stack of returns for another 💻</div>* 
 <br/>
 
-I'm a software engineer, with 3+ years previous experience in creating standardized workflows, supporting relational tax databases, and developing Alteryx automations
 - 🏏 Pickleball! See me on the courts around San Jose, but don't expect too much, I am a low 2.5
 - 💻 An avid reader of manga/manwha and casual consumer of anime. Share your recs with me!
 - 🐶 Proud owner of [the most adorable mini-goldendoodle](https://www.instagram.com/benni_the_donut/)
