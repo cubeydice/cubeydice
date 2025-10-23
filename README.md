@@ -1,7 +1,6 @@
 <!--
 **cubeydice/cubeydice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div align="center"><a href=https://www.linkedin.com/in/queen-belle-d-118b7859/ target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/JRcVv39.png" align=center></a></div>
 
 *<div align="center">a former venture capital tax accountant trading one stack of returns for another 💻</div>* 
 <br/>
