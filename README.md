@@ -9,7 +9,6 @@
 - 🏏 Pickleball! See me on the courts around San Jose, but don't expect too much, I am a low 2.5
 - 💻 An avid reader of manga/manwha and casual consumer of anime. Share your recs with me!
 - 🐶 Proud owner of [the most adorable mini-goldendoodle](https://www.instagram.com/benni_the_donut/)
-- 🌱 Currently developing my Python skills
 <div align="center">
 
 <div align="center"><b>Let's connect!</b></div>
